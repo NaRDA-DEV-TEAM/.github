@@ -1,5 +1,12 @@
+
+
 표준 Data Repository
 ===========================
+
+## ![#1589F0](현재 보안성 검토로 인하여 일시적으로 오픈 소스를 중단하며, 소스가 필요 시에는 엄정호(jhum@kisti.re.kr) 문의 부탁드립니다)
+
+
+<!--
 
 ## 연구데이터 리포지터리 개발 연혁 소개
 
@@ -22,3 +29,5 @@
 - https://idr.kisti.re.kr/manual/docs/install/ 
 
 자세한 사항은 매뉴얼 https://idr.kisti.re.kr/manual 을 참조하세요. 
+
+-->
